@@ -2,6 +2,11 @@
 
 <h2 align="center">Natura: Destaque da empresa nos serviços de TI e métodos ágeis</h2>
 
+- [Sobre](#sobre)
+- [Abstract](#abstract)
+- [Autores](#autores)
+- [Acesso](#acesso)
+
 ### Sobre
 
 *Trabalho apresentado no curso de graduação tecnológica de Análise e Desenvolvimento de Sistemas da Universidade Municipal de São Caetano do Sul*.
@@ -12,7 +17,7 @@ The cosmetics company Natura has become increasingly bigger in the market, not o
 In this paper we will present the company in a simple and objective way, explaining all it’s areas and technologies, how they are organized and showing how it has become so big in the market with such innovative software and methodologies, which serve as an example for many entrepreneurs. <br><br>
 In addition, we will also talk about agile methodologies and how they are applied at Natura,
 their advantages and disadvantages, improvements for the company and their effects on the
-market scenario. <br><br>
+market scenario.
 
 ### Autores
 
